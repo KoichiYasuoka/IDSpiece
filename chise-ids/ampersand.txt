@@ -843,6 +843,7 @@
 &CDP-89D9; 𭠍
 &CDP-8A66; 犮
 &CDP-8AC0; 㸒
+&CDP-8ACC; 𧴪
 &CDP-8AFC; 亼
 &CDP-8B63; 𭥴
 &CDP-8BA1; 𠬛
