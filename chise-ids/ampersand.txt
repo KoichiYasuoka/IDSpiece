@@ -1,4 +1,5 @@
 &A-GT-K06065; ⿱⺤旧
+&A-IWDSU+4EBC; 亼
 &A-IWDSU+8C37; 谷
 &A-compU+5358; 単
 &AJ1-01148; 宛
@@ -841,6 +842,7 @@
 &CDP-89C8; 𠃍
 &CDP-89D7; 卅
 &CDP-89D9; 𭠍
+&CDP-8A60; 𰆊
 &CDP-8A66; 犮
 &CDP-8AC0; 㸒
 &CDP-8ACC; 𧴪
@@ -855,6 +857,7 @@
 &CDP-8C68; 𭷔
 &CDP-8C6A; 𰧭
 &CDP-8CAC; 𠀉
+&CDP-8CDD; 㣊
 &CDP-8D40; 𫷄
 &CDP-8D49; 𨊠
 &CDP-8D4A; 𫢉
@@ -874,6 +877,7 @@
 &GT-K00049; 𠆢
 &GT-K00059; 八
 &GT-K00233; 弋
+&GT-K00264; ⿱一八
 &GT-K00305; 小
 &GT-K00439; 止
 &GT-K01769; 𠔉
